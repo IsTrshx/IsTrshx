@@ -70,7 +70,7 @@ Si quieres contactarme por cualquier cosa, ya sea alguna duda, solo para pasar e
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/IsTrshx/IsTrshx/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/IsTrshx/IsTrshx/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
